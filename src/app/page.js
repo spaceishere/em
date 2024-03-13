@@ -8,7 +8,6 @@ export default function Home() {
       <div className="bg-[url('/backimg.jpeg')] bg-cover w-full h-screen bg-center flex flex-col items-center justify-between">
         <div className="flex w-full p-5 flex-row items-center justify-between bg-gray-300">
           <div className="flex flex-row items-center gap-5">
-            <Image src={"/xxa.jpg"} width={100} height={100} />
             <p className="text-black text-bold text-[20px]">
               Эрүүл мэндийн <br />
               хичээлийн бие даалт
